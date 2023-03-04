@@ -1,0 +1,10 @@
+           CW-2 Software security
+
+  group members: H.M.Dinesha dulakshi- GAHDSE21.2F015
+                 server side GUI and encryption/decryption
+
+
+
+                 K.M.Shashikala Dilrukshi- GAHDSE21.2F014
+                 client side GUI and encryption
+   
